@@ -4,7 +4,8 @@
   "description": "Tutorial from FEM",
   "main": "index.js",
   "scripts": {
-    "test": "tape test.js"
+    "test": "tape test.js",
+    "create": "create-react-app"
   },
   "repository": {
     "type": "git",
