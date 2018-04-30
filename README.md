@@ -1,1 +1,1 @@
-Tut from fatal: refusing to merge unrelated histories
+Tut from https://frontendmasters.com/courses/react/
